@@ -1,6 +1,6 @@
 # Hi there, I'm Kinuthia Lawrence! 👋
 
-I'm a passionate Desktop App Developer and computer science student. Here's a little about me:
+I'm a passionate Java Developer and computer science student. Here's a little about me:
 
 - 👀 I'm interested in FullStack Web development, Desktop development, Android development, and Machine Leaning.
 - 🌱 I'm currently pursuing a degree in Computer Science, learning and exploring new technologies.
