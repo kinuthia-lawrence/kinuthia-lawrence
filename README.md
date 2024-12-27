@@ -37,8 +37,8 @@ I'm a passionate software developer dedicated to crafting efficient and scalable
 ## Projects
 
 ### Chemist POS
-JepsChemistPos is a Point of Sale (POS) system designed for chemists. It helps manage inventory, sales, and customer interactions efficiently.
-[Chemist POS](https://github.com/kinuthia-lawrence/JepsChemistPos)
+JepsChemistPos is a desktop Point of Sale (POS) system designed for chemists. It helps manage inventory, sales, and customer interactions efficiently.
+[Chemist POS](https://github.com/kinuthia-lawrence/JepsChemistPos/blob/master/README.md)
 ![JepsChemistPos](https://github.com/kinuthia-lawrence/profile-assets/blob/script_testing/images/dashboard_screen.png?raw=true)
 
 
