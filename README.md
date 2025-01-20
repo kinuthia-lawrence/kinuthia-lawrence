@@ -39,7 +39,11 @@ I'm a passionate software developer dedicated to crafting efficient and scalable
 ### Chemist POS
 JepsChemistPos is a desktop Point of Sale (POS) system designed for chemists. It helps manage inventory, sales, and customer interactions efficiently.
 [Chemist POS](https://github.com/kinuthia-lawrence/JepsChemistPos/blob/master/README.md)
-![JepsChemistPos](https://github.com/kinuthia-lawrence/profile-assets/blob/script_testing/images/dashboard_screen.png?raw=true)
+![Jeps Chemist POS](https://github.com/kinuthia-lawrence/profile-assets/blob/script_testing/images/jelps-dashboard.png)
+
+### ESNA LIMITED POINT OF SALE
+ESNA LIMITED Point of Sale is a web-based POS system designed to streamline sales, inventory management, and user authentication for small to medium-sized businesses. The GitHub repository for this project is private.
+![ESNA LIMITED](https://github.com/kinuthia-lawrence/profile-assets/blob/script_testing/images/esna-home.png)
 
 
 
