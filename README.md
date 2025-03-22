@@ -14,7 +14,7 @@ $$$$$$$$\ \$$$$$$$ |$$ |      $$ |      \$$$$$$$ |$$ | \$$\ $$ |$$ |  $$ |\$$$$$
                                          \______/                                                       
 ```
 
-I'm a passionate software developer dedicated to crafting efficient and scalable solutions. Here's a little about me:
+I'm a passionate Backend developer dedicated to crafting efficient and scalable solutions. Here's a little about me:
 
 - 👀 I'm interested in FullStack Web development, Desktop development and Mobile development.
 - 💞️ I'm looking to collaborate on interesting projects and open-source initiatives.
